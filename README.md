@@ -85,6 +85,20 @@ SEMESTER 3
 ### OUTPUT
 ![image](https://github.com/Aliyahasmarani/Lab3Web/assets/115197672/f8af2223-a10d-40d5-a600-60b40f20404b)
 
+## PERTANYAAN DAN TUGAS
+## Buatlah form yang menampilkan Dropdown menu dan ListBox dengan multiple selection
+
+### CODE
+
+![Dropdown1](https://github.com/Aliyahasmarani/Lab3Web/assets/115197672/4ae9d53e-36fb-4c73-be96-950cffe6532a)
+
+![Dropdown2](https://github.com/Aliyahasmarani/Lab3Web/assets/115197672/fd6c4622-7148-48c0-aefb-c0263d44f891)
+
+![Dropdown3](https://github.com/Aliyahasmarani/Lab3Web/assets/115197672/8e4a9815-231a-445e-9794-ac7bb2a4b1aa)
+
+### OUTPUT
+
+![image](https://github.com/Aliyahasmarani/Lab3Web/assets/115197672/1b72c72b-0726-4037-8d44-992f02077864)
 
 
 
